@@ -1,0 +1,58 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Aditi Sharma",
+    "target_role": "SDE",
+    "sections": {
+      "summary": "Final year CSE student passionate about backend development and problem solving.",
+      "education": "B.Tech Computer Science, XYZ University, CGPA 8.7",
+      "experience": "Backend Intern at StartupX \u2014 built REST APIs using FastAPI, improved response time by 30%.",
+      "projects": "Built a URL shortener using Python and Redis; Built a chat app using WebSockets.",
+      "skills": [
+        "Python",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "SQL",
+        "REST APIs"
+      ]
+    }
+  },
+  {
+    "student_id": "S002",
+    "name": "Rahul Verma",
+    "target_role": "ML Engineer",
+    "sections": {
+      "summary": "AI/ML enthusiast with hands-on experience in deep learning and model deployment.",
+      "education": "B.Tech CSE (AI/ML), ABC University, CGPA 8.2",
+      "experience": "ML Intern at Brainovision Solutions \u2014 trained and deployed a classification model achieving 92% accuracy.",
+      "projects": "Built a deepfake detection model using CNNs; Built a multi-agent AI startup simulator using LangGraph.",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "LangChain",
+        "FastAPI",
+        "SQL"
+      ]
+    }
+  },
+  {
+    "student_id": "S003",
+    "name": "Sneha Reddy",
+    "target_role": "Data Analyst",
+    "sections": {
+      "summary": "Analytical thinker with strong SQL and data visualization skills.",
+      "education": "B.Tech IT, DEF University, CGPA 8.0",
+      "experience": "Data Analytics Intern at RetailCo \u2014 built dashboards that reduced reporting time by 40%.",
+      "projects": "Sales trend analysis using Python and Power BI; A/B testing framework for a mock e-commerce site.",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Power BI",
+        "Statistics"
+      ]
+    }
+  }
+]

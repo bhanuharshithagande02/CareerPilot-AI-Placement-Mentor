@@ -1,0 +1,47 @@
+{
+  "SDE": [
+    "Data Structures",
+    "Algorithms",
+    "OOP",
+    "System Design",
+    "Git",
+    "REST APIs",
+    "SQL",
+    "Problem Solving"
+  ],
+  "Data Analyst": [
+    "SQL",
+    "Excel",
+    "Python",
+    "Statistics",
+    "Data Visualization",
+    "Power BI/Tableau",
+    "A/B Testing"
+  ],
+  "ML Engineer": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Model Deployment",
+    "SQL",
+    "Statistics",
+    "MLOps",
+    "Data Preprocessing"
+  ],
+  "QA Engineer": [
+    "Manual Testing",
+    "Automation Testing (Selenium)",
+    "Test Case Design",
+    "Bug Tracking (JIRA)",
+    "SQL",
+    "API Testing"
+  ],
+  "System Engineer": [
+    "Networking",
+    "Linux",
+    "Cloud Basics (AWS/Azure)",
+    "Scripting (Bash/Python)",
+    "Troubleshooting",
+    "OS Concepts"
+  ]
+}

@@ -1,0 +1,36 @@
+role,keyword,weight
+SDE,Data Structures,0.52
+SDE,Algorithms,0.68
+SDE,OOP,0.78
+SDE,System Design,0.71
+SDE,Git,0.52
+SDE,REST APIs,0.68
+SDE,SQL,0.97
+SDE,Problem Solving,0.99
+Data Analyst,SQL,0.52
+Data Analyst,Excel,0.68
+Data Analyst,Python,0.84
+Data Analyst,Statistics,0.83
+Data Analyst,Data Visualization,0.68
+Data Analyst,Power BI/Tableau,0.78
+Data Analyst,A/B Testing,0.94
+ML Engineer,Python,0.99
+ML Engineer,Machine Learning,0.87
+ML Engineer,Deep Learning,0.96
+ML Engineer,Model Deployment,0.62
+ML Engineer,SQL,0.58
+ML Engineer,Statistics,0.9
+ML Engineer,MLOps,0.59
+ML Engineer,Data Preprocessing,0.71
+QA Engineer,Manual Testing,0.59
+QA Engineer,Automation Testing (Selenium),0.96
+QA Engineer,Test Case Design,0.89
+QA Engineer,Bug Tracking (JIRA),0.71
+QA Engineer,SQL,0.83
+QA Engineer,API Testing,0.87
+System Engineer,Networking,0.62
+System Engineer,Linux,0.58
+System Engineer,Cloud Basics (AWS/Azure),0.85
+System Engineer,Scripting (Bash/Python),0.69
+System Engineer,Troubleshooting,0.52
+System Engineer,OS Concepts,0.74

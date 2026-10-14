@@ -1,0 +1,251 @@
+company,role,type,topic,question,difficulty
+Amazon,SDE,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+Amazon,SDE,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Easy
+Amazon,SDE,technical,SQL,Write a query to find the second highest salary from an Employee table.,Easy
+Amazon,SDE,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Amazon,SDE,hr,Behavioral,Tell me about yourself.,Medium
+Amazon,Data Analyst,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Easy
+Amazon,Data Analyst,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+Amazon,Data Analyst,technical,Operating Systems,Explain the difference between a process and a thread.,Easy
+Amazon,Data Analyst,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Amazon,Data Analyst,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Amazon,ML Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Hard
+Amazon,ML Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Hard
+Amazon,ML Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Hard
+Amazon,ML Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+Amazon,ML Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Amazon,QA Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Easy
+Amazon,QA Engineer,technical,Trees,Find the height of a binary tree without recursion.,Easy
+Amazon,QA Engineer,technical,SQL,Write a query to find the second highest salary from an Employee table.,Hard
+Amazon,QA Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Amazon,QA Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Amazon,System Engineer,technical,SQL,Write a query to find the second highest salary from an Employee table.,Medium
+Amazon,System Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Easy
+Amazon,System Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Easy
+Amazon,System Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Amazon,System Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Google,SDE,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Easy
+Google,SDE,technical,Hashing,Explain how a hash map handles collisions.,Hard
+Google,SDE,technical,SQL,Write a query to find the second highest salary from an Employee table.,Medium
+Google,SDE,hr,Behavioral,Where do you see yourself in five years?,Medium
+Google,SDE,hr,Behavioral,Tell me about yourself.,Medium
+Google,Data Analyst,technical,Operating Systems,Explain the difference between a process and a thread.,Hard
+Google,Data Analyst,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Hard
+Google,Data Analyst,technical,SQL,Write a query to find the second highest salary from an Employee table.,Medium
+Google,Data Analyst,hr,Behavioral,Where do you see yourself in five years?,Medium
+Google,Data Analyst,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Google,ML Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Medium
+Google,ML Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Easy
+Google,ML Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Easy
+Google,ML Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Google,ML Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Google,QA Engineer,technical,SQL,Write a query to find the second highest salary from an Employee table.,Easy
+Google,QA Engineer,technical,Trees,Find the height of a binary tree without recursion.,Medium
+Google,QA Engineer,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Medium
+Google,QA Engineer,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Google,QA Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Google,System Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+Google,System Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Medium
+Google,System Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Medium
+Google,System Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Google,System Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+Microsoft,SDE,technical,System Design,Design a URL shortening service like Bit.ly.,Easy
+Microsoft,SDE,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Easy
+Microsoft,SDE,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Medium
+Microsoft,SDE,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Microsoft,SDE,hr,Behavioral,Why do you want to join our company?,Medium
+Microsoft,Data Analyst,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+Microsoft,Data Analyst,technical,System Design,Design a URL shortening service like Bit.ly.,Hard
+Microsoft,Data Analyst,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Medium
+Microsoft,Data Analyst,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Microsoft,Data Analyst,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Microsoft,ML Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Easy
+Microsoft,ML Engineer,technical,SQL,Write a query to find the second highest salary from an Employee table.,Hard
+Microsoft,ML Engineer,technical,Hashing,Explain how a hash map handles collisions.,Hard
+Microsoft,ML Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+Microsoft,ML Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Microsoft,QA Engineer,technical,Hashing,Explain how a hash map handles collisions.,Medium
+Microsoft,QA Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Easy
+Microsoft,QA Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Easy
+Microsoft,QA Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+Microsoft,QA Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Microsoft,System Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+Microsoft,System Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Hard
+Microsoft,System Engineer,technical,Hashing,Explain how a hash map handles collisions.,Easy
+Microsoft,System Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Microsoft,System Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+TCS,SDE,technical,Hashing,Explain how a hash map handles collisions.,Medium
+TCS,SDE,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Hard
+TCS,SDE,technical,Operating Systems,Explain the difference between a process and a thread.,Medium
+TCS,SDE,hr,Behavioral,Where do you see yourself in five years?,Medium
+TCS,SDE,hr,Behavioral,Why do you want to join our company?,Medium
+TCS,Data Analyst,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Hard
+TCS,Data Analyst,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Hard
+TCS,Data Analyst,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Medium
+TCS,Data Analyst,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+TCS,Data Analyst,hr,Behavioral,Why do you want to join our company?,Medium
+TCS,ML Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+TCS,ML Engineer,technical,SQL,Write a query to find the second highest salary from an Employee table.,Medium
+TCS,ML Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Easy
+TCS,ML Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+TCS,ML Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+TCS,QA Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Hard
+TCS,QA Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Medium
+TCS,QA Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Hard
+TCS,QA Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+TCS,QA Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+TCS,System Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Easy
+TCS,System Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Hard
+TCS,System Engineer,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Hard
+TCS,System Engineer,hr,Behavioral,Tell me about yourself.,Medium
+TCS,System Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+Infosys,SDE,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Easy
+Infosys,SDE,technical,Trees,Find the height of a binary tree without recursion.,Medium
+Infosys,SDE,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Medium
+Infosys,SDE,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Infosys,SDE,hr,Behavioral,Tell me about yourself.,Medium
+Infosys,Data Analyst,technical,System Design,Design a URL shortening service like Bit.ly.,Hard
+Infosys,Data Analyst,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Medium
+Infosys,Data Analyst,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Easy
+Infosys,Data Analyst,hr,Behavioral,Where do you see yourself in five years?,Medium
+Infosys,Data Analyst,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Infosys,ML Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Medium
+Infosys,ML Engineer,technical,Trees,Find the height of a binary tree without recursion.,Hard
+Infosys,ML Engineer,technical,Hashing,Explain how a hash map handles collisions.,Hard
+Infosys,ML Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Infosys,ML Engineer,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Infosys,QA Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Medium
+Infosys,QA Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Hard
+Infosys,QA Engineer,technical,SQL,Write a query to find the second highest salary from an Employee table.,Hard
+Infosys,QA Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Infosys,QA Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Infosys,System Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Easy
+Infosys,System Engineer,technical,Trees,Find the height of a binary tree without recursion.,Easy
+Infosys,System Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+Infosys,System Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Infosys,System Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Wipro,SDE,technical,Hashing,Explain how a hash map handles collisions.,Hard
+Wipro,SDE,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Easy
+Wipro,SDE,technical,System Design,Design a URL shortening service like Bit.ly.,Easy
+Wipro,SDE,hr,Behavioral,Tell me about yourself.,Medium
+Wipro,SDE,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Wipro,Data Analyst,technical,System Design,Design a URL shortening service like Bit.ly.,Medium
+Wipro,Data Analyst,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+Wipro,Data Analyst,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Hard
+Wipro,Data Analyst,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Wipro,Data Analyst,hr,Behavioral,Why do you want to join our company?,Medium
+Wipro,ML Engineer,technical,Trees,Find the height of a binary tree without recursion.,Hard
+Wipro,ML Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Hard
+Wipro,ML Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Hard
+Wipro,ML Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Wipro,ML Engineer,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Wipro,QA Engineer,technical,Trees,Find the height of a binary tree without recursion.,Easy
+Wipro,QA Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Easy
+Wipro,QA Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Hard
+Wipro,QA Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Wipro,QA Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Wipro,System Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Hard
+Wipro,System Engineer,technical,Hashing,Explain how a hash map handles collisions.,Easy
+Wipro,System Engineer,technical,Trees,Find the height of a binary tree without recursion.,Hard
+Wipro,System Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Wipro,System Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Accenture,SDE,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Easy
+Accenture,SDE,technical,Operating Systems,Explain the difference between a process and a thread.,Easy
+Accenture,SDE,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Easy
+Accenture,SDE,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Accenture,SDE,hr,Behavioral,Where do you see yourself in five years?,Medium
+Accenture,Data Analyst,technical,Trees,Find the height of a binary tree without recursion.,Easy
+Accenture,Data Analyst,technical,Graphs,Detect a cycle in a directed graph using DFS.,Medium
+Accenture,Data Analyst,technical,Operating Systems,Explain the difference between a process and a thread.,Medium
+Accenture,Data Analyst,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Accenture,Data Analyst,hr,Behavioral,Tell me about yourself.,Medium
+Accenture,ML Engineer,technical,Trees,Find the height of a binary tree without recursion.,Easy
+Accenture,ML Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Hard
+Accenture,ML Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Hard
+Accenture,ML Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Accenture,ML Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Accenture,QA Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Medium
+Accenture,QA Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Medium
+Accenture,QA Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Easy
+Accenture,QA Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Accenture,QA Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Accenture,System Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Medium
+Accenture,System Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Medium
+Accenture,System Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Medium
+Accenture,System Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Accenture,System Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Flipkart,SDE,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Easy
+Flipkart,SDE,technical,Trees,Find the height of a binary tree without recursion.,Medium
+Flipkart,SDE,technical,Graphs,Detect a cycle in a directed graph using DFS.,Easy
+Flipkart,SDE,hr,Behavioral,Tell me about yourself.,Medium
+Flipkart,SDE,hr,Behavioral,Where do you see yourself in five years?,Medium
+Flipkart,Data Analyst,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Easy
+Flipkart,Data Analyst,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Easy
+Flipkart,Data Analyst,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Hard
+Flipkart,Data Analyst,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Flipkart,Data Analyst,hr,Behavioral,Where do you see yourself in five years?,Medium
+Flipkart,ML Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Hard
+Flipkart,ML Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Easy
+Flipkart,ML Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Easy
+Flipkart,ML Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Flipkart,ML Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+Flipkart,QA Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Easy
+Flipkart,QA Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Hard
+Flipkart,QA Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Easy
+Flipkart,QA Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+Flipkart,QA Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Flipkart,System Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Hard
+Flipkart,System Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Hard
+Flipkart,System Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Hard
+Flipkart,System Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
+Flipkart,System Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Adobe,SDE,technical,SQL,Write a query to find the second highest salary from an Employee table.,Easy
+Adobe,SDE,technical,System Design,Design a URL shortening service like Bit.ly.,Medium
+Adobe,SDE,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Medium
+Adobe,SDE,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Adobe,SDE,hr,Behavioral,Why do you want to join our company?,Medium
+Adobe,Data Analyst,technical,Trees,Find the height of a binary tree without recursion.,Easy
+Adobe,Data Analyst,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Medium
+Adobe,Data Analyst,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Hard
+Adobe,Data Analyst,hr,Behavioral,Where do you see yourself in five years?,Medium
+Adobe,Data Analyst,hr,Behavioral,Tell me about yourself.,Medium
+Adobe,ML Engineer,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Hard
+Adobe,ML Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Medium
+Adobe,ML Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Easy
+Adobe,ML Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Adobe,ML Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Adobe,QA Engineer,technical,System Design,Design a URL shortening service like Bit.ly.,Easy
+Adobe,QA Engineer,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Medium
+Adobe,QA Engineer,technical,SQL,Write a query to find the second highest salary from an Employee table.,Hard
+Adobe,QA Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Adobe,QA Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Adobe,System Engineer,technical,Hashing,Explain how a hash map handles collisions.,Hard
+Adobe,System Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Hard
+Adobe,System Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Medium
+Adobe,System Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Adobe,System Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Goldman Sachs,SDE,technical,Graphs,Detect a cycle in a directed graph using DFS.,Easy
+Goldman Sachs,SDE,technical,SQL,Write a query to find the second highest salary from an Employee table.,Hard
+Goldman Sachs,SDE,technical,Dynamic Programming,Find the length of the longest increasing subsequence in an array.,Hard
+Goldman Sachs,SDE,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Goldman Sachs,SDE,hr,Behavioral,Why do you want to join our company?,Medium
+Goldman Sachs,Data Analyst,technical,SQL,Write a query to find the second highest salary from an Employee table.,Easy
+Goldman Sachs,Data Analyst,technical,System Design,Design a URL shortening service like Bit.ly.,Hard
+Goldman Sachs,Data Analyst,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Hard
+Goldman Sachs,Data Analyst,hr,Behavioral,Why do you want to join our company?,Medium
+Goldman Sachs,Data Analyst,hr,Behavioral,Where do you see yourself in five years?,Medium
+Goldman Sachs,ML Engineer,technical,Trees,Find the height of a binary tree without recursion.,Easy
+Goldman Sachs,ML Engineer,technical,SQL,Write a query to find the second highest salary from an Employee table.,Hard
+Goldman Sachs,ML Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Medium
+Goldman Sachs,ML Engineer,hr,Behavioral,Why do you want to join our company?,Medium
+Goldman Sachs,ML Engineer,hr,Behavioral,Tell me about yourself.,Medium
+Goldman Sachs,QA Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Hard
+Goldman Sachs,QA Engineer,technical,OOP Concepts,Explain the difference between abstraction and encapsulation with an example.,Medium
+Goldman Sachs,QA Engineer,technical,Graphs,Detect a cycle in a directed graph using DFS.,Easy
+Goldman Sachs,QA Engineer,hr,Behavioral,How do you handle conflict with a teammate?,Medium
+Goldman Sachs,QA Engineer,hr,Behavioral,Describe a situation where you failed and what you learned.,Medium
+Goldman Sachs,System Engineer,technical,Recursion,Write a recursive function to compute the nth Fibonacci number.,Easy
+Goldman Sachs,System Engineer,technical,Operating Systems,Explain the difference between a process and a thread.,Easy
+Goldman Sachs,System Engineer,technical,Arrays,"Given an array of integers, find two numbers that add up to a target value.",Hard
+Goldman Sachs,System Engineer,hr,Behavioral,Describe a time you worked in a team to solve a difficult problem.,Medium
+Goldman Sachs,System Engineer,hr,Behavioral,Where do you see yourself in five years?,Medium
